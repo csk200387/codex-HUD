@@ -24,7 +24,9 @@ cd codex-HUD/Codex-HUD
 ./install.sh
 ```
 
-On macOS, the first `cargo build --release` can take several minutes.
+> **Note:** `install.sh` compiles the entire `codex-rs` workspace from
+> source (~200 crates) to produce the patched binary. On an M5 chip,
+> this takes about 10–15 minutes and uses significant CPU.
 
 ## Supported Environment
 - macOS (Apple Silicon / Intel) — primary target
@@ -125,7 +127,9 @@ cd codex-HUD/Codex-HUD
 ./install.sh
 ```
 
-macOS에서는 최초 `cargo build --release`가 몇 분 걸릴 수 있습니다.
+> **참고:** `install.sh`는 패치된 바이너리를 만들기 위해 `codex-rs`
+> 워크스페이스 전체(크레이트 약 200개)를 소스부터 컴파일합니다.
+> M5 기준 약 10~15분 소요되며, CPU 자원을 많이 사용합니다.
 
 ### 지원 환경
 - macOS (Apple Silicon / Intel) — 주 타깃
