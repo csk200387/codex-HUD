@@ -14,7 +14,7 @@ A macOS-compatible fork of [anhannin/codex-hud](https://github.com/anhannin/code
 
 ## Quick Start
 ```bash
-git clone https://github.com/Qifei-C/codex-HUD.git
+git clone https://github.com/csk200387/codex-HUD.git
 cd codex-HUD/Codex-HUD
 ./install.sh
 ```
@@ -46,7 +46,7 @@ Changes do not appear in already-running Codex sessions.
 Verification commands:
 ```bash
 grep -n "status_line_command" ~/.codex/config.toml
-cd ~/codex-hud && node dist/index.js --status-line --once --no-clear
+node dist/index.js --status-line --once --no-clear
 ```
 
 ## Commands
@@ -65,7 +65,7 @@ Minimum pre-release checklist:
 
 Quick install for users:
 ```bash
-git clone https://github.com/Qifei-C/codex-HUD.git
+git clone https://github.com/csk200387/codex-HUD.git
 cd codex-HUD/Codex-HUD
 ./install.sh
 ```
@@ -90,10 +90,11 @@ HUD • g5.3c • Usage ██░░░░░░░░ 25% (1h 30m / 5h) | █�
 
 ## Upstream
 - Original project: [anhannin/codex-hud](https://github.com/anhannin/codex-hud)
+- macOS fork (immediate parent of this repo): [Qifei-C/codex-HUD](https://github.com/Qifei-C/codex-HUD)
 - Sync upstream: `git fetch upstream && git merge upstream/master`
 
 ## Support
-- Bug reports: [github.com/Qifei-C/codex-HUD/issues](https://github.com/Qifei-C/codex-HUD/issues)
+- Bug reports: [github.com/csk200387/codex-HUD/issues](https://github.com/csk200387/codex-HUD/issues)
 - Upstream issues: [github.com/anhannin/codex-hud/issues](https://github.com/anhannin/codex-hud/issues)
 
 ## Project Layout

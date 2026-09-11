@@ -19,7 +19,7 @@ Displays model, Git branch, context usage, and 5h/7d rate limits directly in the
 
 ## Quick Start
 ```bash
-git clone https://github.com/Qifei-C/codex-HUD.git
+git clone https://github.com/csk200387/codex-HUD.git
 cd codex-HUD/Codex-HUD
 ./install.sh
 ```
@@ -95,10 +95,11 @@ project stays well inside that grant:
 
 ## Upstream
 - Original project: [anhannin/codex-hud](https://github.com/anhannin/codex-hud)
+- macOS fork (immediate parent of this repo): [Qifei-C/codex-HUD](https://github.com/Qifei-C/codex-HUD)
 - Sync upstream: `git fetch upstream && git merge upstream/master`
 
 ## Support
-- Bug reports: [github.com/Qifei-C/codex-HUD/issues](https://github.com/Qifei-C/codex-HUD/issues)
+- Bug reports: [github.com/csk200387/codex-HUD/issues](https://github.com/csk200387/codex-HUD/issues)
 - Upstream issues: [github.com/anhannin/codex-hud/issues](https://github.com/anhannin/codex-hud/issues)
 
 ---
@@ -122,7 +123,7 @@ Codex 터미널 하단에 모델명, Git 브랜치, 컨텍스트 사용량, 5시
 
 ### 빠른 시작
 ```bash
-git clone https://github.com/Qifei-C/codex-HUD.git
+git clone https://github.com/csk200387/codex-HUD.git
 cd codex-HUD/Codex-HUD
 ./install.sh
 ```
@@ -178,10 +179,11 @@ Codex-HUD/
 
 ### 업스트림
 - 원본 프로젝트: [anhannin/codex-hud](https://github.com/anhannin/codex-hud)
+- macOS 포크 (이 저장소가 직접 포크해온 곳): [Qifei-C/codex-HUD](https://github.com/Qifei-C/codex-HUD)
 - 업스트림 동기화: `git fetch upstream && git merge upstream/master`
 
 ### 지원
-- 버그 신고: [github.com/Qifei-C/codex-HUD/issues](https://github.com/Qifei-C/codex-HUD/issues)
+- 버그 신고: [github.com/csk200387/codex-HUD/issues](https://github.com/csk200387/codex-HUD/issues)
 - 업스트림 이슈: [github.com/anhannin/codex-hud/issues](https://github.com/anhannin/codex-hud/issues)
 
 [↑ 맨 위로](#codex-hud-macos-fork)
