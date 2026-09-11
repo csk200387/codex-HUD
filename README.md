@@ -1,5 +1,7 @@
 # Codex HUD (macOS Fork)
 
+_Last verified against openai/codex: 2026-09 (stable release rust-v0.154.0)_
+
 A macOS-compatible fork of [anhannin/codex-hud](https://github.com/anhannin/codex-hud) — a real-time status line HUD for [Codex CLI](https://github.com/openai/codex).
 
 Displays model, Git branch, context usage, and 5h/7d rate limits directly in the Codex terminal.
