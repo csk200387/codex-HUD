@@ -1,5 +1,11 @@
 # Codex HUD (macOS Fork)
 
+> **⚠ Archived.** Codex CLI's built-in `[tui] status_line` is enough of
+> a substitute for what this project provided, so patching and building
+> Codex from source is no longer necessary. Check `[tui] status_line` in
+> your `~/.codex/config.toml` first. This repo is kept only for reference
+> and is no longer maintained.
+
 _Last verified against openai/codex: 2026-09 (stable release rust-v0.154.0)_
 
 A macOS-compatible fork of [anhannin/codex-hud](https://github.com/anhannin/codex-hud) — a real-time status line HUD for [Codex CLI](https://github.com/openai/codex).

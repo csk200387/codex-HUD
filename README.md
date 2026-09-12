@@ -1,5 +1,11 @@
 # Codex HUD (macOS Fork)
 
+> **⚠ Archived.** Codex CLI's built-in `[tui] status_line` is enough of
+> a substitute for what this project provided, so patching and building
+> Codex from source is no longer necessary. Check `[tui] status_line` in
+> your `~/.codex/config.toml` first. This repo is kept only for reference
+> and is no longer maintained.
+
 **[English](#codex-hud-macos-fork) · [한국어](#한국어)**
 
 _Last verified against openai/codex: 2026-09 (stable release rust-v0.154.0)_
@@ -105,6 +111,12 @@ project stays well inside that grant:
 ---
 
 ## 한국어
+
+> **⚠ 보관됨(Archived).** 이 프로젝트가 제공하던 걸 Codex CLI 자체
+> `status_line` 기능으로 충분히 대체할 수 있어서, 소스를 패치해서
+> 빌드하는 방식이 더 이상 필요하지 않습니다. `~/.codex/config.toml`의
+> `[tui] status_line` 설정을 먼저 확인해보세요. 이 저장소는 참고용으로만
+> 남겨두며 더 이상 유지보수하지 않습니다.
 
 **[English](#codex-hud-macos-fork) · [한국어](#한국어)**
 
